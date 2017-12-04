@@ -214,13 +214,11 @@ Format of input file:
 comments are allowed at the beginning of the file only
 
 * first the system/application parameters are read in the form: key value \n
-; keys are {V, C, A, a_sort, a_red, a_master, comm_master_size, gamma, m, r, bisection, key_num} 
+; keys are {V, C, A, a_sort, a_red, a_master, comm_master_size, gamma, gamma1, m, r, bisection, key_num} 
 ; the key value pair must start at the beginning of the line
 ; everything that follows after the key value pair in the current line is ignored
 
-* then m sequences of key_num frequencies of the keys; no comments allowed now
-; each sequence is for one mapper
-; each sequence starts at the beginning of the line
+* then a sequence of key_num frequencies of the keys, starting at the beginning of the line
 ; it is assumed that the contents of the file are correct and concise
 */
 void dataread(_TCHAR* filename)
