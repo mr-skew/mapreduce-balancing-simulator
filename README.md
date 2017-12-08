@@ -7,13 +7,13 @@ The analyzed algorithms are: the reference algorithm, static(2), static(10), mul
 
 ## References
 
-1. J. Berliñska, M. Drozdowski, Scheduling divisible MapReduce computations, J. Parallel Distrib. Computing 71(3), 2011, 450–459,
+1. J. BerliÅ„ska, M. Drozdowski, Scheduling divisible MapReduce computations, J. Parallel Distrib. Computing 71(3), 2011, 450â€“459,
 [doi:10.1016/j.jpdc.2010.12.004](http://dx.doi.org/10.1016/j.jpdc.2010.12.004)
 
-2. J. Berliñska, M. Drozdowski, Algorithms to Mitigate Partition Skew in MapReduce Applications, Research Report RA-01/15, Institute of Computing Science, Poznan Univ. of Technology, 2015,
+2. J. BerliÅ„ska, M. Drozdowski, Algorithms to Mitigate Partition Skew in MapReduce Applications, Research Report RA-01/15, Institute of Computing Science, Poznan Univ. of Technology, 2015,
 http://www.cs.put.poznan.pl/mdrozdowski/rapIIn/RA-01-2015.pdf
 
-3. J. Berliñska, M. Drozdowski, Comparing Load-Balancing Algorithms for MapReduce under Zipfian Data Skews, 2017, submitted.
+3. J. BerliÅ„ska, M. Drozdowski, Comparing Load-Balancing Algorithms for MapReduce under Zipfian Data Skews, 2017, submitted.
 
 
 ## Building
