@@ -13,7 +13,10 @@ The analyzed algorithms are: the reference algorithm, static(2), static(10), mul
 2. J. Berlińska, M. Drozdowski, Algorithms to Mitigate Partition Skew in MapReduce Applications, Research Report RA-01/15, Institute of Computing Science, Poznan Univ. of Technology, 2015,
 http://www.cs.put.poznan.pl/mdrozdowski/rapIIn/RA-01-2015.pdf
 
-3. J. Berlińska, M. Drozdowski, Comparing Load-Balancing Algorithms for MapReduce under Zipfian Data Skews, 2017, submitted.
+3. J. Berlińska, M. Drozdowski, Comparing Load-Balancing Algorithms for MapReduce under Zipfian Data Skews, Parallel Computing 72, 2018, 14-28, [doi:10.1016/j.parco.2017.12.003](http://dx.doi.org/10.1016/j.parco.2017.12.003).
+
+
+If you use mapreduce-balancing-simulator for research purposes, please cite the above reference [3].
 
 
 ## Building
